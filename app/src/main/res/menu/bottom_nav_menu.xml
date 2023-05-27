@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item1"
+        android:title="Paradas"
+        android:icon="@drawable/ic_bus" />
+
+    <item
+        android:id="@+id/menu_item2"
+        android:title="Mapa"
+        android:icon="@drawable/ic_map" />
+
+    <item
+        android:id="@+id/menu_item3"
+        android:title="Incidencias"
+        android:icon="@drawable/ic_incidencias" />
+</menu>

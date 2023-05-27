@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815001420196",
+    "project_id": "rapibus-c7462",
+    "storage_bucket": "rapibus-c7462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815001420196:android:08a95c98f094dbace3c131",
+        "android_client_info": {
+          "package_name": "com.app.rapibus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjBXJChdDODkc8brE5bY3st4ICbKmU4VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

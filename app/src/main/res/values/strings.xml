@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RapiBus</string>
+    <string name="peticion_nombre">Introduzca su nombre</string>
+    <string name="peticion_password">Introduzca su password</string>
+    <string name="boton_ingresar">Ingresar</string>
+    <string name="bienvenido">"Bienvenido, "</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="peticion_correo">Introduzca su correo</string>
+    <string name="boton_registrar">REGISTRAR</string>
+</resources>
